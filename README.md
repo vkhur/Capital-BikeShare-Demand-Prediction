@@ -3,3 +3,4 @@ Capital Bikeshare network want to expand their rental station across Washington 
 1) Best time of the year to use promotion strategy?
 2) How different factor effect the rider decision?  
 3) How different timing will effect the operation decisions?
+## l
