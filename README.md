@@ -3,6 +3,3 @@ Capital Bikeshare network want to expand their rental station across Washington 
 1) Best time of the year to use promotion strategy?
 2) How different factor effect the rider decision?  
 3) How different timing will effect the operation decisions?
-4) Limitations
-Spotify won’t allow to pull data for multiple users because of their security reasons. They allow users to pull data for single user account.
-We started with Tableau then we used PowerBI because Tableau was not able to display Artist images directly from web URLs.
